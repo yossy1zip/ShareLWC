@@ -1,0 +1,10 @@
+name: ShareLWC
+version: ${project.version}
+main: com.yiorno.sharelwc.ShareLWC
+api-version: 1.16
+prefix: S-LWC
+depend: [ LWC ]
+authors: [ yossy_zip ]
+commands:
+  cshare:
+    description: "うおお"
